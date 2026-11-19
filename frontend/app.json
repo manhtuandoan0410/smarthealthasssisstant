@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Smart Health Assistant",
+    "slug": "smarthhealth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
